@@ -1,0 +1,19 @@
+.jumbotron {
+  background-image: url(img/IMG20190623135819.jpg);
+  background-size: cover;
+  height: 60'a0px;
+  text-align: center;
+}
+.jumbotron p {font-size: 20px}
+
+}
+.jumbotron hr {
+	border-color: #ffb84d;
+	width: 70px;
+	border-width: 3px;
+}
+.jumbotron .btn {
+	background-color: #ffa31a;
+	border: none;
+}
+
